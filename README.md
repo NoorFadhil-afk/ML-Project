@@ -165,7 +165,7 @@ Each model is evaluated using:
 ## 👩‍💻 Author
 
 **Noor Ali Fadel**
-Bachelor’s Degree in Internet & Cybersecurity
+Bachelor’s Degree in Internet E-security
 Machine Learning & Fraud Detection Project
 
 ---
